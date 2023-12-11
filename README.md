@@ -5,11 +5,11 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone git@github.com:Groozzy/api_yamdb.git
+git clone git@github.com:Ann-Ostr/api_user_reviews.git
 ```
 
 ```
-cd api_yamdb
+cd api_user_reviews
 ```
 
 Cоздать и активировать виртуальное окружение:
