@@ -1,5 +1,4 @@
-# API_for_review
-api_yamdb
+# API_for_user_reviews
 
 ### Как запустить проект:
 
